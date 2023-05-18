@@ -86,6 +86,7 @@
               "zone.js",
               "zone.js/testing"
             ],
+            "codeCoverage": true,
             "tsConfig": "tsconfig.spec.json",
             "inlineStyleLanguage": "scss",
             "assets": [
@@ -100,5 +101,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "302d5e72-8e0a-477c-a35f-17069e6f8f84"
   }
 }
