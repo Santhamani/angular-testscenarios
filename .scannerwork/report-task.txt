@@ -2,5 +2,5 @@ projectKey=angular-testscenarios
 serverUrl=http://localhost:9000
 serverVersion=10.0.0.68432
 dashboardUrl=http://localhost:9000/dashboard?id=angular-testscenarios
-ceTaskId=AYgyjfMfVQN7XECmVeeD
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYgyjfMfVQN7XECmVeeD
+ceTaskId=AYgyl0eHVQN7XECmVeeS
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYgyl0eHVQN7XECmVeeS
