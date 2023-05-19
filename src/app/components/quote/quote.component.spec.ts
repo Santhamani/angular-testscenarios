@@ -3,7 +3,7 @@ import { ComponentFixture, TestBed } from '@angular/core/testing';
 import { QuoteComponent } from './quote.component';
 import { QuoteService } from 'src/app/services/quote.service';
 
-fdescribe('QuoteComponent', () => {
+describe('QuoteComponent', () => {
   let component: QuoteComponent;
   let quoteService : QuoteService
   let fixture: ComponentFixture<QuoteComponent>;
