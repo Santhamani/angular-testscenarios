@@ -1,3 +1,3 @@
 export class QuoteModel {
-    constructor(public text : String, public timeCreated : String) {}
+    constructor(public text : string, public timeCreated : string) {}
 }

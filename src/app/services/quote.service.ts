@@ -6,7 +6,6 @@ import { QuoteModel } from '../model/quotemodel';
 })
 export class QuoteService {
 
-  constructor() { }
   public quotesList : QuoteModel[]=[];
 
   public daysOfWeek = ["Sun", "Mon", "Tues", "Wednes", "Thurs", "Fri"];
